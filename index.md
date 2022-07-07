@@ -1,4 +1,4 @@
-# What is truth?
+# **What is truth?**
 
 ## Energy
 
