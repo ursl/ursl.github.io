@@ -7,4 +7,4 @@
 The question is on vaccine *mandates*, not vaccines. 
 
 ## Miscellaneous
-* 2022/07/13 ["Exchange rates of USD/EUR/RUB to CHF"](220713.md)
+* 2022/07/13 ["Exchange rates of USD/EUR/RUB/GBP to CHF"](220713.md)
