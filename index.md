@@ -1,3 +1,4 @@
+miscellaneous findings in the web
 
 ## Energy
 * 2022/07/12 [Electricity generation in week 23 of 2022 in Switzerland, Germany, the EU, and the US](220712.md)
